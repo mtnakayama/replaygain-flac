@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# replaygain-flac - A convenience script to add ReplaiGain data to flac files.
+# replaygain-flac - A convenience script to add ReplayGain data to flac files.
 
 # Written in 2021 by Matthew Nakayama matthewnakayama@gmail.com
 
